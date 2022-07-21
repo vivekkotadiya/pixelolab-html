@@ -1,0 +1,12 @@
+<svg width="25" height="20" viewBox="0 0 25 20" xmlns="http://www.w3.org/2000/svg">
+    <g fill="none" fill-rule="evenodd">
+        <path d="M9.524 17.219a1.905 1.905 0 1 1-3.81 0 1.905 1.905 0 0 1 3.81 0zM20.178 17.219a1.905 1.905 0 1 1-3.81 0 1.905 1.905 0 0 1 3.81 0z" fill="#111"/>
+        <path stroke="#000" stroke-width="2" d="M.907.907h2.63l3.249 12.698h12.782l2.79-9.594H4.666"/>
+        <g transform="translate(14 -12)">
+            <circle fill="#2736DD" cx="8" cy="12" r="8"/>
+            <text font-family="Chivo-Regular, Chivo" font-size="10" fill="#FFF">
+                            <tspan x="5" y="9">1</tspan>
+                        </text>
+        </g>
+    </g>
+</svg>
